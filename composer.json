@@ -1,0 +1,8 @@
+{
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "kambo/llama-cpp-php": "^0.1.0@alpha",
+        "kambo/llama-cpp-php-linux-lib": "^0.1.0@alpha"
+    }
+}
